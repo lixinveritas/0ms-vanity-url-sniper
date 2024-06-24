@@ -36,8 +36,8 @@ kurulum.bat dosyasını çalıştırarak tüm bağımlılıkları otomatik olara
 Proje dizininde veritas.txt dosyasının içini doldurun formatta yapılandırın:
 
 # url:sunucuid:hesaptoken formatında bilgi girin
-# url:sunucuid:bot_tokeni
-# url:sunucuid:kullanici_tokeni
+- url:sunucuid:bot_tokeni
+- url:sunucuid:kullanici_tokeni
 
 Herhangi bir sorunuz olursa, sormaktan çekinmeyin! 
 [issues](https://github.com/lixinveritas/0ms-vanity-url-sniper/issues)
