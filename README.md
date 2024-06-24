@@ -27,7 +27,7 @@ cd discord-vanity-url-sniper
 Yöntem 1: Tek Tek Yükleme
 - equirements.txt dosyasındaki bağımlılıkları tek tek yüklemek için:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 Yöntem 2: Otomatik Yükleme
 - kurulum.bat dosyasını çalıştırarak tüm bağımlılıkları otomatik olarak yükleyin
