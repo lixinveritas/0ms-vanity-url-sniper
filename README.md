@@ -25,15 +25,15 @@ cd discord-vanity-url-sniper
 ### Adım 2: Bağımlılıkları Yükleyin
 
 Yöntem 1: Tek Tek Yükleme
-requirements.txt dosyasındaki bağımlılıkları tek tek yüklemek için:
+- equirements.txt dosyasındaki bağımlılıkları tek tek yüklemek için:
 
 pip install -r requirements.txt
 
 Yöntem 2: Otomatik Yükleme
-kurulum.bat dosyasını çalıştırarak tüm bağımlılıkları otomatik olarak yükleyin
+- kurulum.bat dosyasını çalıştırarak tüm bağımlılıkları otomatik olarak yükleyin
 
 ### Adım 3: Yapılandırma
-Proje dizininde veritas.txt dosyasının içini doldurun formatta yapılandırın:
+- Proje dizininde veritas.txt dosyasının içini doldurun formatta yapılandırın:
 
 # url:sunucuid:hesaptoken formatında bilgi girin
 - url:sunucuid:bot_tokeni
