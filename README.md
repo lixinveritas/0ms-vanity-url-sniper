@@ -1,6 +1,6 @@
 # Discord Vanity URL Sniper
 
-Bu proje, belirli bir Discord Vanity URL'sini (Özel URL) almayı hedefler. Saniyede 0-5ms aralığında 500 deneme yaparak API yasağı almadan çalışır. Proje, bir bot hesabı ve bir kişisel hesap ekleyerek çalışmaktadır.
+Bu proje, belirli bir Discord Vanity URL'sini almayı hedefler. Saniyede 0-5ms aralığında 500 deneme yaparak API yasağı almadan çalışır. Proje, bir bot hesabı ve bir kişisel hesap ekleyerek çalışmaktadır.
 
 ## Özellikler
 
@@ -39,5 +39,6 @@ Proje dizininde veritas.txt dosyasının içini doldurun formatta yapılandırı
 url:sunucuid:bot_tokeni
 url:sunucuid:kullanici_tokeni
 
-Herhangi bir sorunuz olursa, sormaktan çekinmeyin!
-
+Herhangi bir sorunuz olursa, sormaktan çekinmeyin! 
+[issues](https://github.com/lixinveritas/0ms-vanity-url-sniper/issues)
+[@lixinveritas](https://discordapp.com/users/718287701987688491)
