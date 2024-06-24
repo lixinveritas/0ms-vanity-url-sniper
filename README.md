@@ -19,7 +19,7 @@ Bu proje, belirli bir Discord Vanity URL'sini almayı hedefler. Saniyede 0-5ms a
 ### Adım 1: Depoyu Klonlayın
 
 bash
-git clone [https://github.com/kullaniciadi/discord-vanity-url-sniper.git](https://github.com/lixinveritas/0ms-vanity-url-sniper)
+git clone [[https://github.com/kullaniciadi/discord-vanity-url-sniper.git](https://github.com/lixinveritas/0ms-vanity-url-sniper)]
 cd discord-vanity-url-sniper
 
 ### Adım 2: Bağımlılıkları Yükleyin
