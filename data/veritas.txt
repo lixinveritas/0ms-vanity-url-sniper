@@ -1,0 +1,2 @@
+url:sunucu id:hesap token 
+url:sunucu id:kullanici token
