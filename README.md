@@ -35,7 +35,7 @@ Yöntem 2: Otomatik Yükleme
 ### Adım 3: Yapılandırma
 - Proje dizininde veritas.txt dosyasının içini doldurun formatta yapılandırın:
 
-# url:sunucuid:hesaptoken formatında bilgi girin
+### url:sunucuid:hesaptoken formatında bilgi girin
 - url:sunucuid:bot_tokeni
 - url:sunucuid:kullanici_tokeni
 
