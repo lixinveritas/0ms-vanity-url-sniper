@@ -41,4 +41,5 @@ url:sunucuid:kullanici_tokeni
 
 Herhangi bir sorunuz olursa, sormaktan çekinmeyin! 
 [issues](https://github.com/lixinveritas/0ms-vanity-url-sniper/issues)
-[@lixinveritas](https://discordapp.com/users/718287701987688491)
+
+## [@lixinveritas](https://discordapp.com/users/718287701987688491)
