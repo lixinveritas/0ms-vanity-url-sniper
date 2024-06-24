@@ -18,11 +18,11 @@ Bu proje, belirli bir Discord Vanity URL'sini (Özel URL) almayı hedefler. Sani
 
 ### Adım 1: Depoyu Klonlayın
 
-```bash
+bash
 git clone https://github.com/kullaniciadi/discord-vanity-url-sniper.git
 cd discord-vanity-url-sniper
 
-Adım 2: Bağımlılıkları Yükleyin
+### Adım 2: Bağımlılıkları Yükleyin
 
 Yöntem 1: Tek Tek Yükleme
 requirements.txt dosyasındaki bağımlılıkları tek tek yüklemek için:
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Yöntem 2: Otomatik Yükleme
 kurulum.bat dosyasını çalıştırarak tüm bağımlılıkları otomatik olarak yükleyin
 
-Adım 3: Yapılandırma
+### Adım 3: Yapılandırma
 Proje dizininde veritas.txt dosyasının içini doldurun formatta yapılandırın:
 
 # url:sunucuid:hesaptoken formatında bilgi girin
